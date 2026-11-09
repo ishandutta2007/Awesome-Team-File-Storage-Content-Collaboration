@@ -1,15 +1,18 @@
-# Awesome Team File Storage & Content Collaboration 📁 ☁️
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Team File Storage and Content Collaboration Banner" width="100%" />
+</p>
+
+# Awesome Team File Storage & Content Collaboration 📁 ☁️ 🚀
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
-  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=flat-square" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
-> 🌟 A curated directory and comparison guide to premier **Team File Storage**, **Content Collaboration**, and **Enterprise File Sync & Share (EFSS)** platforms — featuring commercial cloud SaaS suites and self-hosted open-source solutions for shared cloud drives, secure multi-device synchronization, granular access governance, and collaborative document editing.
+> 🌟 A curated directory and architectural comparison guide to premier **Team File Storage**, **Content Collaboration**, and **Enterprise File Sync & Share (EFSS)** platforms — featuring commercial cloud SaaS suites and self-hosted open-source solutions for shared cloud drives, secure multi-device synchronization, granular access governance, zero-knowledge encryption, and collaborative document editing. 🚀
 >
 > ⭐ *Star this repository if you find it helpful!* ⭐
 
@@ -17,26 +20,26 @@
 
 ## 📋 Table of Contents
 
-- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
-- [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-- [Open-Source Software](#-open-source-software)
-- [Comparison at a Glance](#-comparison-at-a-glance)
-- [Support & Community](#-support--community)
-- [Star History](#-star-history)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🟦 SaaS / Hosted Platforms](#-saas--hosted-platforms)
+- [🟩 Open-Source Software](#-open-source-software)
+- [📊 Comparison at a Glance](#-comparison-at-a-glance)
+- [💖 Support](#-support)
+- [📈 Star History](#-star-history)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
 ## 🌐 Sector Overview & Market Dynamics
 
-The global Content Collaboration Platforms (CCP) and Enterprise File Sync and Share (EFSS) market is valued at approximately **$12.5 billion** and is projected to expand beyond **$32 billion by 2030** (CAGR ~17%). The industry exhibits a **concentrated, oligopolistic top tier** dominated by hyperscalers (Microsoft and Google) who bundle storage natively into workplace productivity suites, while specialized standalone vendors (Dropbox, Box, Egnyte) defend regulated enterprise and hybrid niches, leaving a thriving open-source ecosystem for organizations demanding on-premises data sovereignty and strict compliance.
+The global Content Collaboration Platforms (CCP) and Enterprise File Sync and Share (EFSS) market is valued at approximately **$12.5 billion** and is projected to expand beyond **$32 billion by 2030** (CAGR ~17%). The industry exhibits a **concentrated, oligopolistic top tier** dominated by hyperscalers (Microsoft and Google) who bundle storage natively into workplace productivity suites, while specialized standalone vendors (Dropbox, Box, Egnyte) defend regulated enterprise and hybrid niches, leaving a thriving open-source ecosystem for organizations demanding on-premises data sovereignty and strict compliance. 💼 🔒
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted enterprise file storage and content collaboration platforms. Sorted descending by company scale (market capitalization / valuation / annual revenue).
+Commercial, cloud-hosted enterprise file storage and content collaboration platforms. Sorted descending by company scale (market capitalization / valuation / annual revenue). 🏢 📊
 
 | Platform | Starting Tier Pricing | Free Tier / Free Trial Limits | Company Scale (Valuation / Revenue) | Real-Time Co-Editing | Key Strengths & Trade-offs |
 |:---|:---|:---|:---|:---|:---|
@@ -51,7 +54,7 @@ Commercial, cloud-hosted enterprise file storage and content collaboration platf
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven file sync, storage, and collaboration engines. Sorted descending by GitHub stargazers count with official white social badges linking directly to each repository's stargazers.
+Self-hosted, community-driven file sync, storage, and collaboration engines. Sorted descending by GitHub stargazers count with official white social badges linking directly to each repository's stargazers. 💻 🔓
 
 | Project | GitHub Stars | License | Primary Tech Stack | Architecture & Type | Description & Primary Use Case |
 |:---|:---|:---|:---|:---|:---|
@@ -89,25 +92,25 @@ Self-hosted, community-driven file sync, storage, and collaboration engines. Sor
 
 ---
 
-## 💬 Support & Community
+## 💖 Support
 
-Join developers, sysadmins, and infrastructure architects discussing enterprise storage, self-hosted file sync, and document governance:
+Thank you for exploring this curated repository! If you find this directory and architectural comparison valuable, please consider supporting the project:
 
-- 💬 Join the discussion on our [Community Discord](https://discord.gg/jc4xtF58Ve)
-- 💡 Submit feature requests, missing tools, or corrections via [GitHub Issues](https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/issues)
-- 🌐 Explore sibling open-source directories at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+- ⭐ **Star this repository** to improve visibility and help other teams find the right storage and collaboration solutions.
+- 🍴 **Fork the repository** to contribute new tools, performance benchmarks, or updates.
+- 📢 **Share with your team** and network across LinkedIn, X/Twitter, Reddit, and developer communities.
+- ☕ **Buy me a coffee / Sponsor ongoing maintenance:** Support independent open-source research and community curation via [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
 
 ---
 
-## 📈 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&Date)
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&type=date&legend=top-left)
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are warmly welcomed! If you know of an actively maintained open-source Team File Storage or Content Collaboration platform:
+Contributions are warmly welcomed! If you know of an actively maintained open-source Team File Storage or Content Collaboration platform: 💡 🛠️
 
 1. Fork the repository.
 2. Verify the project is actively maintained (active releases or commits within the last 12 months).
@@ -119,4 +122,4 @@ Contributions are warmly welcomed! If you know of an actively maintained open-so
 
 ## 📄 License
 
-This repository is curated and made available under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. Individual tools, platforms, and listed repositories retain their respective proprietary or open-source licenses.
+This repository is curated and made available under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. Individual tools, platforms, and listed repositories retain their respective proprietary or open-source licenses. 📜
