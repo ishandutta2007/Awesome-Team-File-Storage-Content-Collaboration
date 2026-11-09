@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -56,7 +56,7 @@ Commercial, cloud-hosted enterprise file storage and content collaboration platf
 
 Self-hosted, community-driven file sync, storage, and collaboration engines. Sorted descending by GitHub stargazers count with official white social badges linking directly to each repository's stargazers. 💻 🔓
 
-| Project | GitHub Stars | License | Primary Tech Stack | Architecture & Type | Description & Primary Use Case |
+| Project | GitHub_Stars | License | Primary Tech Stack | Architecture & Type | Description & Primary Use Case |
 |:---|:---|:---|:---|:---|:---|
 | **[Syncthing](https://github.com/syncthing/syncthing)** | [![Syncthing Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers) | MPL-2.0 | Go | Peer-to-Peer (Decentralized) | Open, decentralized peer-to-peer file synchronization engine that syncs files directly between devices over TLS/LAN without storing data on central third-party servers. Ideal for secure multi-node sync and private cross-machine backup. |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Rclone Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | MIT | Go | Multi-Cloud Sync & Storage Mount CLI/Engine | The "Swiss Army knife of cloud storage" supporting over 70 cloud storage providers. Mounts remote cloud buckets (S3, Drive, OneDrive, WebDAV) as local drives, syncs directories, and provides bidirectional team data pipeline replication. |
@@ -114,7 +114,7 @@ Contributions are warmly welcomed! If you know of an actively maintained open-so
 
 1. Fork the repository.
 2. Verify the project is actively maintained (active releases or commits within the last 12 months).
-3. If adding an open-source project, include an official GitHub star badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)` and place it in sorted descending star order.
+3. If adding an open-source project, include an official GitHub Stars_Badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)` and place it in sorted descending star order.
 4. If adding a SaaS product, specify exact starting tier pricing, explicit free tier / free trial limit parameters, and parent company scale metrics.
 5. Submit a descriptive Pull Request.
 
