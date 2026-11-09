@@ -1,121 +1,122 @@
-# Awesome-Team-File-Storage-Content-Collaboration
+# Awesome Team File Storage & Content Collaboration 📁 ☁️
 
-# Awesome Team File Storage & Content Collaboration
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration?style=flat-square&logo=github" alt="GitHub Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-lightgrey.svg?style=flat-square" alt="License: CC0-1.0"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow&style=flat-square" /></a>
+</p>
 
-> A curated list of top Team File Storage and Content Collaboration platforms — both SaaS/Hosted commercial solutions and open-source alternatives for shared drives, file sync, and collaborative document editing.
-> 🌟 Star this repo if you find it useful! 🌟
+> 🌟 A curated directory and comparison guide to premier **Team File Storage**, **Content Collaboration**, and **Enterprise File Sync & Share (EFSS)** platforms — featuring commercial cloud SaaS suites and self-hosted open-source solutions for shared cloud drives, secure multi-device synchronization, granular access governance, and collaborative document editing.
+>
+> ⭐ *Star this repository if you find it helpful!* ⭐
 
 ---
 
 ## 📋 Table of Contents
 
+- [Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
 - [SaaS / Hosted Platforms](#-saas--hosted-platforms)
-  - [Google Drive](#google-drive)
-  - [Microsoft OneDrive & SharePoint](#microsoft-onedrive--sharepoint)
-  - [Dropbox Business](#dropbox-business)
-  - [Box](#box)
-  - [Egnyte](#egnyte)
-  - [Zoho WorkDrive](#zoho-workdrive)
 - [Open-Source Software](#-open-source-software)
-  - [Nextcloud](#nextcloud)
-  - [Seafile](#seafile)
-  - [OpenCloud](#opencloud)
-  - [ownCloud Infinite Scale](#owncloud-infinite-scale)
 - [Comparison at a Glance](#-comparison-at-a-glance)
+- [Support & Community](#-support--community)
+- [Star History](#-star-history)
 - [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 🌐 Sector Overview & Market Dynamics
+
+The global Content Collaboration Platforms (CCP) and Enterprise File Sync and Share (EFSS) market is valued at approximately **$12.5 billion** and is projected to expand beyond **$32 billion by 2030** (CAGR ~17%). The industry exhibits a **concentrated, oligopolistic top tier** dominated by hyperscalers (Microsoft and Google) who bundle storage natively into workplace productivity suites, while specialized standalone vendors (Dropbox, Box, Egnyte) defend regulated enterprise and hybrid niches, leaving a thriving open-source ecosystem for organizations demanding on-premises data sovereignty and strict compliance.
 
 ---
 
 ## 🟦 SaaS / Hosted Platforms
 
-Commercial, cloud-hosted Team File Storage and Content Collaboration platforms. These are not open-source but are included as reference points for feature comparison.
+Commercial, cloud-hosted enterprise file storage and content collaboration platforms. Sorted descending by company scale (market capitalization / valuation / annual revenue).
 
-### Google Drive
-**Type:** Cloud storage with real-time document collaboration  
-Google Drive (via Google Workspace) is the gold standard for real-time co-editing in Docs, Sheets, and Slides, with deep integrations and superior search [citation:2]. Shared Drives provide team-owned storage with granular permissions, and the ecosystem is familiar to most knowledge workers. **Trade-off:** Offline mode can be patchy, and complex Office files may come through with formatting quirks [citation:13].
-
-### Microsoft OneDrive & SharePoint
-**Type:** Enterprise content management within Microsoft 365  
-OneDrive for Business provides personal work files with Files On-Demand, while SharePoint serves as the organizational document backbone for team sites and shared libraries [citation:5][citation:9]. The combination is the default for Microsoft 365 organizations, offering versioning, retention, and audit capabilities. **Trade-off:** SharePoint configuration complexity is high; without designed site creation rules, redundant sites and unexplainable permission exceptions accumulate quickly [citation:5].
-
-### Dropbox Business
-**Type:** Pure sync engine with reliable cross-platform delivery  
-Dropbox is the most polished pure sync tool: changes land on every device in seconds, selective sync saves disk space, and shared links handle large files without email attachment failures [citation:14]. It is the low-drama choice when file transfer to external clients is the daily pain. **Trade-off:** Real-time document editing is absent, and its governance features (metadata, retention, audit) are thinner than SharePoint or Box [citation:14].
-
-### Box
-**Type:** Enterprise content governance and collaboration  
-Box is the platform of choice for regulated industries, with compliance certifications (SOC 2, HIPAA, FedRAMP), granular permissions, retention policies, legal hold, and 1,500+ integrations [citation:6][citation:14]. It is primarily a content platform rather than a project management system. **Trade-off:** Pricing adds up for occasional collaborators, and project planning or task tracking requires separate tools [citation:6].
-
-### Egnyte
-**Type:** Hybrid file collaboration with governance  
-Egnyte mixes cloud and on-premises storage with audit trails and fine-grained access control, suited for organizations with hybrid infrastructure needs [citation:13]. **Trade-off:** Setup complexity is higher, and there is no true real-time co-editing [citation:13].
-
-### Zoho WorkDrive
-**Type:** Team folders within the Zoho ecosystem  
-WorkDrive organizes files around Team Folders with granular access controls, built-in Zoho Office editors, and secure external links with passwords and expiry [citation:14]. It is the best value for price-sensitive small teams already using Zoho. **Trade-off:** Outside the Zoho ecosystem, collaborative editing and third-party integrations feel thin [citation:2].
+| Platform | Starting Tier Pricing | Free Tier / Free Trial Limits | Company Scale (Valuation / Revenue) | Real-Time Co-Editing | Key Strengths & Trade-offs |
+|:---|:---|:---|:---|:---|:---|
+| **[Microsoft OneDrive & SharePoint](https://www.microsoft.com/en-us/microsoft-365/onedrive/online-cloud-storage)** | **$5.00** /user/month (OneDrive for Business Plan 1, annual billing) | **5 GB** free forever (personal account); **30-day free trial** for Microsoft 365 Business (up to 25 licenses with 1 TB/user) | **~$3.1 Trillion** market cap (Microsoft Corp, $245B+ annual revenue) | ✅ Native Microsoft 365 Office web/desktop co-authoring | **Pros:** Default enterprise standard; native Windows Files On-Demand and SharePoint team sites.<br>**Trade-off:** SharePoint administration and permission governance are notoriously complex. |
+| **[Google Drive (Google Workspace)](https://workspace.google.com/products/drive/)** | **$6.00** /user/month (Business Starter, 1-year commitment) | **15 GB** pooled free forever across Drive, Gmail, & Photos; **14-day free trial** for Google Workspace | **~$2.1 Trillion** market cap (Alphabet Inc, $350B+ annual revenue) | ✅ Native Google Docs, Sheets, Slides real-time collaboration | **Pros:** Gold standard for low-friction real-time co-authoring, Shared Drives, and lightning-fast search.<br>**Trade-off:** Complex formatting in desktop Office files can degrade during conversion. |
+| **[Dropbox Business](https://www.dropbox.com/business)** | **$9.00** /user/month (Dropbox Essentials, 1 user, billed annually) | **2 GB** free forever (Dropbox Basic); **30-day free trial** for Business Standard (up to 3+ users, 5 TB storage pool) | **~$8.5 Billion** market cap (Dropbox Inc, $2.5B+ annual revenue) | ⚠️ External integrations (Dropbox Paper / Office web) | **Pros:** Best-in-class, rock-solid block sync engine with selective sync and smart sync.<br>**Trade-off:** Lacks comprehensive enterprise document lifecycle governance out of the box. |
+| **[Box](https://www.box.com/)** | **$15.00** /user/month (Box Business, min 3 users, billed annually) | **10 GB** storage / 250 MB max file upload limit free forever; **14-day free trial** for Business & Enterprise tiers | **~$4.5 Billion** market cap (Box Inc, $1.04B+ annual revenue) | ⚠️ Box Notes native; integrations for MS 365 & Google | **Pros:** Enterprise-grade security certifications (FedRAMP High, HIPAA, FINRA, SOC 2) and 1,500+ integrations.<br>**Trade-off:** Higher per-user cost; primarily a content and governance layer rather than workspace suite. |
+| **[Zoho WorkDrive](https://www.zoho.com/workdrive/)** | **$2.50** /user/month (Starter tier, min 3 users, billed annually) | **5 GB** shared storage free forever (up to 3 users, 1 GB file upload limit); **15-day free trial** on Team plans | **~$1.4 Billion+** annual revenue (Zoho Corp, bootstrapped private valuation ~$10B–$15B) | ✅ Native Zoho Writer, Sheet, Show real-time co-editing | **Pros:** Unmatched cost-to-value ratio for small-to-medium teams already inside the Zoho ecosystem.<br>**Trade-off:** Third-party app ecosystem and standalone brand presence are weaker than hyperscalers. |
+| **[Egnyte](https://www.egnyte.com/)** | **$20.00** /user/month (Business plan, min 10 users, billed annually) | **15-day free trial** (unlimited access to collaborative hybrid storage & audit features, no credit card required) | **~$1.6 Billion** valuation (Private equity / pre-IPO, ~$250M+ ARR) | ⚠️ Microsoft Office 365 web co-editing integration | **Pros:** Premier hybrid deployment (cloud + local NAS/on-prem cache) with granular audit trails and DLP.<br>**Trade-off:** High entry barrier (minimum seat thresholds) and steeper learning curve. |
 
 ---
 
 ## 🟩 Open-Source Software
 
-Self-hosted, community-driven Team File Storage and Content Collaboration tools. The open-source ecosystem splits between **full cloud suites** and **high-performance sync engines**.
+Self-hosted, community-driven file sync, storage, and collaboration engines. Sorted descending by GitHub stargazers count with official white social badges linking directly to each repository's stargazers.
 
-### Nextcloud
-**Stack:** PHP / MariaDB/PostgreSQL / Redis | **License:** AGPL-3.0  
-Nextcloud is the safe default for a full self-hosted Google replacement, extending file sync with Calendar, Contacts, Talk (chat/video), and Nextcloud Office (Collabora-based browser editing) [citation:3][citation:7]. It has official desktop and mobile clients, shared folders, public links, version history, and optional per-folder end-to-end encryption from desktop/mobile clients [citation:7]. **Trade-off:** You pay for breadth in moving parts — PHP, web server, database, Redis for file locking, and a background job runner, each needing patching and backups [citation:3]. Idle RAM on a fresh single-user install measured 332 MiB, growing with users and apps [citation:3].  
-**Best for:** Teams wanting an all-in-one self-hosted cloud suite with files, calendars, contacts, and office editing, accepting higher operational overhead.
-
-### Seafile
-**Stack:** C / Python / MariaDB | **License:** AGPL-3.0 (Community Edition)  
-Seafile is built for one purpose: fast, reliable file sync, storing files in its own block format for performance [citation:7][citation:8]. It treats data as version-controlled libraries, with built-in history and activity logs, and supports client-side encrypted libraries where contents are encrypted before upload (file names are not encrypted) [citation:8]. The SeaDrive virtual drive client mounts cloud storage locally without downloading all files [citation:8]. **Trade-off:** Idle RAM measured 698 MiB — higher than Nextcloud on a fresh install — and it is not a full suite; office editing requires SeaDoc, Collabora, or OnlyOffice [citation:3][citation:7].  
-**Best for:** Teams prioritizing sync speed and reliability over extra apps, especially those with large file libraries or encrypted sync requirements.
-
-### OpenCloud
-**Stack:** Go | **License:** Apache-2.0  
-OpenCloud is a 2025 fork of ownCloud's Go-based server, created after ownCloud's acquisition by Kiteworks [citation:7]. It is the lightest option: Apache-2.0 licensed, stores files and metadata directly on the filesystem with no database, and documentation claims 512 MB and a single core handle up to 10 users [citation:7]. Version 7.5.0 (August 2026) added end-to-end encryption for folders. **Trade-off:** Younger project with a smaller ecosystem; it is a file-sync platform rather than a full collaboration suite [citation:4][citation:7].  
-**Best for:** Small teams on modest hardware wanting a modern, database-free file cloud with minimal operational overhead.
-
-### ownCloud Infinite Scale
-**Stack:** Go | **License:** Apache-2.0  
-oCIS is ownCloud's modern, scalable file platform, still shipping alongside OpenCloud [citation:7]. It is lightweight on disk (image 331 MB, data ~1 MB in tests) and starts fastest, answering WebDAV after 7 seconds [citation:3]. Positioned for scalable sync and sharing with strong collaboration capabilities, without the full suite overhead of Nextcloud [citation:4].  
-**Best for:** Organizations wanting a modern, scalable file platform from the ownCloud lineage, with a lighter footprint than the classic ownCloud PHP stack.
+| Project | GitHub Stars | License | Primary Tech Stack | Architecture & Type | Description & Primary Use Case |
+|:---|:---|:---|:---|:---|:---|
+| **[Syncthing](https://github.com/syncthing/syncthing)** | [![Syncthing Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers) | MPL-2.0 | Go | Peer-to-Peer (Decentralized) | Open, decentralized peer-to-peer file synchronization engine that syncs files directly between devices over TLS/LAN without storing data on central third-party servers. Ideal for secure multi-node sync and private cross-machine backup. |
+| **[Rclone](https://github.com/rclone/rclone)** | [![Rclone Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | MIT | Go | Multi-Cloud Sync & Storage Mount CLI/Engine | The "Swiss Army knife of cloud storage" supporting over 70 cloud storage providers. Mounts remote cloud buckets (S3, Drive, OneDrive, WebDAV) as local drives, syncs directories, and provides bidirectional team data pipeline replication. |
+| **[Nextcloud Server](https://github.com/nextcloud/server)** | [![Nextcloud Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers) | AGPL-3.0 | PHP / MariaDB / Redis | Full Self-Hosted Productivity & Storage Suite | The definitive open-source Google Workspace / 365 replacement. Combines team file storage, desktop/mobile sync clients, collaborative document editing (Nextcloud Office / Collabora / OnlyOffice), groupware (Calendar, Mail, Contacts), and Nextcloud Talk. |
+| **[File Browser](https://github.com/filebrowser/filebrowser)** | [![File Browser Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers) | Apache-2.0 | Go / Vue.js | Lightweight Web File Manager | Extremely lightweight standalone web file management portal providing instant file upload, download, preview, multi-user role management, and sharing links over any specified server directory. Ships as a single binary with negligible RAM footprint. |
+| **[Cryptomator](https://github.com/cryptomator/cryptomator)** | [![Cryptomator Stars](https://img.shields.io/github/stars/cryptomator/cryptomator?style=social&color=white)](https://github.com/cryptomator/cryptomator/stargazers) | GPL-3.0 | Java / C# / Swift | Client-Side Zero-Knowledge Encryption | Multi-platform client-side encryption utility that creates encrypted virtual vaults inside any cloud drive (Dropbox, Google Drive, OneDrive, Nextcloud). Protects sensitive business documents with transparent zero-knowledge AES-256 encryption before uploading. |
+| **[Seafile](https://github.com/haiwen/seafile)** | [![Seafile Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers) | AGPL-3.0 | C / Python / MariaDB | High-Performance Block Sync Engine | Enterprise-ready file sync and share platform storing files in optimized block-level format (similar to Git). Delivers blazing sync speed, version-controlled file libraries, encrypted libraries, SeaDrive virtual drive client, and integrations with OnlyOffice and SeaDoc. |
+| **[ownCloud Core](https://github.com/owncloud/core)** | [![ownCloud Core Stars](https://img.shields.io/github/stars/owncloud/core?style=social&color=white)](https://github.com/owncloud/core/stargazers) | AGPL-3.0 | PHP / MySQL | Classic Enterprise EFSS | The foundational open-source cloud file server that established the self-hosted EFSS category. Provides file sync, WebDAV APIs, sharing controls, mobile/desktop clients, and federation across instances. |
+| **[OpenCloud](https://github.com/opencloud-eu/opencloud)** | [![OpenCloud Stars](https://img.shields.io/github/stars/opencloud-eu/opencloud?style=social&color=white)](https://github.com/opencloud-eu/opencloud/stargazers) | Apache-2.0 | Go | Cloud-Native Microservices EFSS | A modern 2025 community fork of the Go-based ownCloud Infinite Scale architecture, developed following ownCloud's acquisition by Kiteworks. Stores files and metadata directly on disk without requiring relational databases, optimized for microservice deployments. |
+| **[Pydio Cells](https://github.com/pydio/cells)** | [![Pydio Cells Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers) | AGPL-3.0 | Go / Microservices | Enterprise Content Management & Collaboration | Microservice-powered enterprise document management and collaboration platform. Organizes files into flexible "Cells" with granular ACLs, metadata tags, audit logs, and in-browser office editing for regulated internal workspaces. |
+| **[ownCloud Infinite Scale (oCIS)](https://github.com/owncloud/ocis)** | [![oCIS Stars](https://img.shields.io/github/stars/owncloud/ocis?style=social&color=white)](https://github.com/owncloud/ocis/stargazers) | Apache-2.0 | Go / Vue.js | Cloud-Native Microservices Platform | Next-generation Go-based engine engineered for large-scale enterprise deployments. Designed without database bottlenecks using cloud-native microservices, instant WebDAV availability, low memory consumption, and modern web UI. |
 
 ---
 
 ## 📊 Comparison at a Glance
 
-| Software | License | Stack | Real-Time Editing | E2EE | Self-Hosted | Best For |
-|----------|---------|-------|-------------------|------|-------------|----------|
-| **Google Drive** | Proprietary | Cloud | ✅ Native | ❌ | ❌ | Real-time co-editing |
-| **OneDrive/SharePoint** | Proprietary | Cloud/on-prem | ✅ Office | ❌ | (on-prem) | Microsoft 365 estates |
-| **Dropbox Business** | Proprietary | Cloud | ❌ | ❌ | ❌ | Reliable sync + large files |
-| **Box** | Proprietary | Cloud | (Limited) | ❌ | ❌ | Regulated content governance |
-| **Egnyte** | Proprietary | Cloud/hybrid | ❌ | ❌ | (hybrid) | Hybrid governance |
-| **Zoho WorkDrive** | Proprietary | Cloud | ✅ Zoho Office | ❌ | ❌ | Zoho ecosystem value |
-| **Nextcloud** | AGPL-3.0 | PHP/DB/Redis | ✅ Office | ✅ (per-folder) | ✅ | Full self-hosted suite |
-| **Seafile** | AGPL-3.0 | C/Python/MariaDB | (Via add-ons) | ✅ (encrypted libs) | ✅ | Fast sync + encryption |
-| **OpenCloud** | Apache-2.0 | Go | ❌ | ✅ (v7.5+) | ✅ | Lightweight file cloud |
-| **oCIS** | Apache-2.0 | Go | (Check) | (Check) | ✅ | Scalable file platform |
+| Solution | Deployment Model | Real-Time Office Co-Editing | End-to-End Encryption (E2EE) | Block-Level / Virtual Sync | Primary Sweet Spot |
+|:---|:---|:---|:---|:---|:---|
+| **Microsoft OneDrive / SharePoint** | Cloud SaaS (Hybrid on-prem) | ✅ Native Office 365 | ❌ Proprietary Server-side | ✅ Files On-Demand | Microsoft 365 corporate enterprises |
+| **Google Drive** | Cloud SaaS | ✅ Native Google Workspace | ❌ Google Managed Keys | ❌ Full / Streaming Client | Real-time simultaneous co-authoring |
+| **Dropbox Business** | Cloud SaaS | ⚠️ Via Office / Paper | ❌ Server-side standard | ✅ Smart Sync / Block engine | High-speed multi-device sync & large files |
+| **Box** | Cloud SaaS | ⚠️ Box Notes / Office online | ❌ Server-side (Box KeySafe) | ✅ Box Drive | Strict compliance & regulated data governance |
+| **Zoho WorkDrive** | Cloud SaaS | ✅ Native Zoho Office Suite | ❌ At rest / in transit | ✅ WorkDrive TrueSync | SMBs & startups using the Zoho ecosystem |
+| **Egnyte** | Hybrid Cloud + On-Prem | ⚠️ Via Office 365 Online | ❌ Enterprise key control | ✅ Hybrid Local Cache | Architecture, engineering & remote NAS setups |
+| **Syncthing** | Self-Hosted P2P | ❌ (File sync only) | ✅ Native TLS & Untrusted Relays | ✅ Decentralized Block Sync | Private peer-to-peer folder replication |
+| **Rclone** | CLI / Mount Service | ❌ (File transfer only) | ✅ Optional Crypt backend | ✅ VFS Virtual Mount | Multi-cloud data migration & S3 mount |
+| **Nextcloud** | Self-Hosted Server | ✅ Collabora / OnlyOffice | ✅ Per-folder client encryption | ✅ Virtual Files (Desktop) | Complete sovereign all-in-one cloud suite |
+| **File Browser** | Self-Hosted Single Binary | ❌ (Preview & media player) | ❌ (Host filesystem permissions)| ❌ Web-only interface | Lightweight zero-config private file portal |
+| **Cryptomator** | Client-Side Utility | ❌ (Local encrypted vault) | ✅ Zero-Knowledge AES-256 | ✅ Virtual Encrypted Drive | Encrypting cloud storage folders before upload |
+| **Seafile** | Self-Hosted Server | ✅ OnlyOffice / SeaDoc | ✅ Encrypted library vaults | ✅ Block sync + SeaDrive virtual drive | High-volume sync speed & versioned libraries |
+| **OpenCloud / oCIS** | Self-Hosted Microservices | ⚠️ Via Collabora / OnlyOffice | ✅ Folder E2EE (v7.5+) | ✅ WebDAV & Desktop Clients | Database-free, high-concurrency Go cloud |
+| **Pydio Cells** | Self-Hosted Microservices | ✅ Collabora / OnlyOffice | ❌ Granular RBAC / ACLs | ✅ Desktop Sync Client | Enterprise compliance & collaborative Cells |
+
+---
+
+## 💬 Support & Community
+
+Join developers, sysadmins, and infrastructure architects discussing enterprise storage, self-hosted file sync, and document governance:
+
+- 💬 Join the discussion on our [Community Discord](https://discord.gg/jc4xtF58Ve)
+- 💡 Submit feature requests, missing tools, or corrections via [GitHub Issues](https://github.com/ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration/issues)
+- 🌐 Explore sibling open-source directories at [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Team-File-Storage-Content-Collaboration&Date)
 
 ---
 
 ## 🤝 Contributing
 
-Contributions are welcome! If you know of an open-source Team File Storage or Content Collaboration tool that should be listed here, please open a pull request with:
+Contributions are warmly welcomed! If you know of an actively maintained open-source Team File Storage or Content Collaboration platform:
 
-- Project name and URL
-- Brief description (1–2 sentences)
-- Stack and license
-- Why it stands out
-
-Please ensure the project is actively maintained (releases within the last 12 months) and genuinely open-source. Note that the open-source ecosystem **splits** between full cloud suites (Nextcloud) and focused sync engines (Seafile, OpenCloud, oCIS). Nextcloud is the most complete self-hosted replacement for Google Workspace, while Seafile is the strongest choice for pure sync performance and encrypted libraries, and OpenCloud is the lightest option for small teams on minimal hardware.
+1. Fork the repository.
+2. Verify the project is actively maintained (active releases or commits within the last 12 months).
+3. If adding an open-source project, include an official GitHub star badge formatted as `[![Repo Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)` and place it in sorted descending star order.
+4. If adding a SaaS product, specify exact starting tier pricing, explicit free tier / free trial limit parameters, and parent company scale metrics.
+5. Submit a descriptive Pull Request.
 
 ---
 
 ## 📄 License
 
-This list is released under CC0 1.0 Universal (Public Domain). The software projects listed retain their respective licenses.
-
----
-
-⭐ **If this list helped you discover a useful tool, please star the repo!** ⭐
+This repository is curated and made available under the [Creative Commons Zero v1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication. Individual tools, platforms, and listed repositories retain their respective proprietary or open-source licenses.
